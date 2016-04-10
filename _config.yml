@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title:
-description:
-logo: # 120x120 px default image used for Twitter summary card
+title: thoje.it
+description: my HQ
+logo: # 120x120 pxdefault image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
-locale: en
+locale: de
 url:
 
 # Jekyll configuration
@@ -37,9 +37,9 @@ titlecase: true
 
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
+  name: thoje
+  email: info@thoje.it
+  twitter: thorstenoje
   google:
     ad-client:
     ad-slot:
