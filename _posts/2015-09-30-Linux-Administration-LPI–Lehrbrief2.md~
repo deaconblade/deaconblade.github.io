@@ -1,0 +1,26 @@
+---
+layout: article
+title: Linux Administration LPI – Lehrbrief 2
+tags: lpi
+---
+##### Ergebnis der zweiten Einsendeaufgabe:
+
+Gesamt 87/100 Punkten **(Note:2 gut)**
+
+Die Themen waren u.a.:
+
++ Source und Binaerdatein
++ Zugriffsrechte (oktal + symbolisch, SUID SGID)
++ bash
++ sudo
++ Skripts
++ Hard-und Symbolic Links
+
+
+---
+Naechster Artikel
+{% if page.next %}
+  <a href="{{ page.next.url }}">
+    {{ page.next.title }}
+  </a>
+{% endif %}

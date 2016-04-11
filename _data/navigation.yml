@@ -1,6 +1,15 @@
 # Site navigation links
 
-- title:
-  url:
+- title: About
+  url: /about/
+  excerpt:
+  image:
+
+- title: Fernstudium
+  url: /tags/lpi/
+  excerpt: Linux Adminstration LPI
+
+- title: Impressum
+  url: /impressum/
   excerpt:
   image:

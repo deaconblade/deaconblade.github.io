@@ -1,0 +1,24 @@
+---
+layout: tagpage
+title: Linux Administration LPI - Lehrbrief 4
+tags:lpi
+---
+##### Ergebnis der vierten Einsendeaufgabe:
+
+Gesamt 90/100 Punkten **(Note:2 gut)**
+
+Die Themen waren u.a.:
+
++ Job-Systeme (Cron - at)
++ Font-Server
++ X-Server und Fenstermanager
++ Skript um in einem Verzeichnis alle gross geschriebenen Dateien in klein geschriebene umzubenennen
++ CUPS
+
+---
+Naechster Artikel
+{% if page.next %}
+  <a href="{{ page.next.url }}">
+    {{ page.next.title }}
+  </a>
+{% endif %}
